@@ -4,7 +4,7 @@
 
 <div class="row">
   <div class="column">
-    <img src="http://pimpmycall.com/img/screenshots/demo-spash.jpg" alt="Flutter Splashscreen" style="width:100%">
+    <img src="http://pimpmycall.com/img/screenshots/demo-splash.jpg" alt="Flutter Splashscreen" style="width:100%">
   </div>
   <div class="column">
     <img src="http://pimpmycall.com/img/screenshots/demo-1.jpg" title="Flutter Demo 1" alt="Flutter demo 1" style="width:100%">
@@ -14,7 +14,7 @@
   </div>
 </div>
 
-[![Flutter splash](http://pimpmycall.com/img/screenshots/demo-spash.jpg)](https://no-ego.be)
+[![Flutter splash](http://pimpmycall.com/img/screenshots/demo-splash.jpg)](https://no-ego.be)
 
 
 
